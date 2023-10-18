@@ -111,6 +111,7 @@ def mc_control(env, gamma=1.0, init_alpha=0.5, min_alpha=0.01, alpha_decay_ratio
 
 ### PROGRAM TO EVALUATE THE POLICY :
 ```python
+# number of episodes = 450000
 import random
 import numpy as np
 
@@ -158,7 +159,7 @@ def results(env, optimal_pi, goal_state, seed=123):
   			Obtains an average undiscounted return of: {avg_return:.4f}.')
 
 goal_state = 15
-results(env, optimal_pi, goal_state=goal_state)
+results(env, optimal_pi, goal_state=goal_state) 
 
 ```
 ## OUTPUT :
