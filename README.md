@@ -162,17 +162,9 @@ results(env, optimal_pi, goal_state=goal_state)
 
 ```
 ## OUTPUT :
-### State - Value Function :
-![image](https://github.com/ShafeeqAhamedS/monte-carlo-control/assets/93427237/cf55e033-41c0-412f-ba29-1f7aff6ef3e7)
-
-### Action - Value Function :
-![image](https://github.com/ShafeeqAhamedS/monte-carlo-control/assets/93427237/19b93272-369a-4837-a915-300c2820e4db)
-
-### Policy :
-![image](https://github.com/ShafeeqAhamedS/monte-carlo-control/assets/93427237/801edbb1-4db8-4408-8289-ad0710bb6973)
-
+### Value Functions :
+![image](https://github.com/Jovita08/monte-carlo-control/assets/94174503/78ba9006-0aec-40d3-a713-b1f2eb4e4637)
 ### Success Percentage of Policy :
-![image](https://github.com/ShafeeqAhamedS/monte-carlo-control/assets/93427237/cd9e4926-6d51-4254-b342-dd390096ec51)
-
+![image](https://github.com/Jovita08/monte-carlo-control/assets/94174503/ff1840ea-1795-4c1b-a2bc-23343d7547e5)
 ## RESULT :
 Thus, a Python program is developed to find the optimal policy for the given RL environment using the Monte Carlo algorithm.
